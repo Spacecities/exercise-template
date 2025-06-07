@@ -1,10 +1,10 @@
-# (replace-me: Exercise title)
-
-_(replace-me: One-line description of the exercise)_
+# Satellite foundry manufaction)
+_ satellite technology
+_
 
 ## Welcome
 
-- **Who is this for**: (replace-me: Target audience description)
+- **Who is this for**: 卫星技术交流
 - **What you'll learn**: (replace-me: Learning objectives)
 - **What you'll build**: (replace-me: Description of what the learner will create)
 - **Prerequisites**:
